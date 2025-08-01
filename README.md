@@ -30,3 +30,13 @@ The menu is an infinite loop prompting users for the types of transactions they 
 
 -----
 ## Visualizations
+
+
+
+### Improvements todo
+- The program has many issues such as requireing case sensitivity in user inputs in order to run properly, the first inprovement should be to fix this by setting all inputs and checks to lower case to avoid case sensitive requirements. 
+- The program could also take in specific inputs for day, month, year, and time or have another function that splices the current input into those fields.
+- The program could also have more filters for the search function which includes asking for specifc days, months, year, times, or have the ability to skip those filters if the user desires.
+  - The search function could also have a dynamic prompting system which gives the user all unique entries from the csv files in each column.
+
+
