@@ -30,6 +30,16 @@ The menu is an infinite loop prompting users for the types of transactions they 
 
 -----
 ## Visualizations
+The visualizations show how much the suer spends each month, color coded by type and sub category. For spending by type, the program creates a bar chart that shows how much was spent on each type in every month. For spending by Category, it makes a line chart that tracks how each category changes month by month. 
+
+<img width="600" height="528" alt="image" src="https://github.com/user-attachments/assets/ff0002d8-b5dd-4150-a51d-bde113088182" />
+
+<img width="587" height="447" alt="image" src="https://github.com/user-attachments/assets/2d7e266f-10a2-4a2b-b939-f9927f676e2f" />
+
+## Aggregation functions
+The user can filter data either by Type or by Date. Once filtered, the user recives a calculated total of those expenses, the average, the highest transaction, or the lowest.
+
+<img width="591" height="153" alt="image" src="https://github.com/user-attachments/assets/49974254-671d-4f30-9251-eea2c3a6eba0" />
 
 
 
